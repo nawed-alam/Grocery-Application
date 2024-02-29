@@ -1,0 +1,114 @@
+{
+    "categories": [
+      {
+        "categoryName": "Foodgrains",
+        "subcategories": [
+          "Atta & Maida",
+          "Rice & Creals",
+          "Dals & Pulses",
+          "Combos",
+          "Salt&Sugar",
+          "Organic&Healthy",
+          "Eggs"
+        ]
+      },
+      {
+        "categoryName": "Personal Care",
+        "subcategories": [
+          "Soaps",
+          "Shampoo & Conditioner",
+          "Face Cream",
+          "Face Wash",
+          "Tooth Paste",
+          "HandWash & Sanitizer",
+          "Body  Lotion"
+        ]
+      },
+      {
+        "categoryName": "Oils & Masalas",
+        "subcategories": [
+          "Oils& Ghee",
+          "Cumin Seeds",
+          "Coriander Seeds",
+          "Cardamom",
+          "Cloves",
+          "Turmeric Powder",
+          "Chili Powder",
+          "Cinnamon Powder",
+          "Cumin Powder",
+          "Jeera Powder"
+        ]
+      },
+      {
+        "categoryName": "Snacks & Biscuits",
+        "subcategories": [
+          "Potato Chips",
+          "Biscuits&Cookies",
+          "Cakes&Pastries",
+          "Tortilla Chips",
+          "Corn Chips",
+          "Almonds",
+          "Cashews",
+          "Pistachios",
+          "Walnuts"
+        ]
+      },
+      {
+        "categoryName": "Cleaning & Household",
+        "subcategories": [
+          "Laundry Essentials",
+          "Household Cleaning",
+          "Kitchen Cleaning",
+          "Toilet Cleaning",
+          "Freshners"
+         
+        ]
+      },
+      {
+        "categoryName": "Baby Care",
+        "subcategories": [
+          "Diapers & Wipes",
+          "Baby Food",
+          "Baby Skin Care",
+          "Baby Bath",
+          "Baby Hair Care"
+        ]
+      },
+      {
+        "categoryName": "Chocolates",
+        "subcategories": [
+          "Chocolates",
+          "candies & Gums",
+          "flavoured Chocolates",
+          "Almonds Chocolates"
+        ]
+      },
+      {
+        "categoryName": "Beverages",
+        "subcategories": [
+          "Tea",
+          "Soft Drinks",
+          "Water",
+          "Soda & Mixers",
+          "Milk",
+          "Juices& Drinks",
+          "Instant Drink",
+          "Pepsi Drinks",
+          "Cofee"
+        ]
+      },
+      {
+        "categoryName": "Festival Offer",
+        "subcategories": [
+          "Potato Chips",
+          "Tortilla Chips",
+          "Corn Chips",
+          "Almonds",
+          "Cashews",
+          "Pistachios",
+          "Walnuts"
+        ]
+      }
+    ]
+  }
+  

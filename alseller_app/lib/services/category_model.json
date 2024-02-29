@@ -1,0 +1,111 @@
+{
+    "categories": [
+      {
+        "categoryName": "Foodgrains",
+        "subcategories": [
+          "Toor Dal",
+          "Chana Dal",
+          "Moong Dal",
+          "Masoor Dal"
+        ]
+      },
+      {
+        "categoryName": "Personal Care",
+        "subcategories": [
+          "Basmati Rice",
+          "Jasmine Rice",
+          "Brown Rice",
+          "Wheat",
+          "Barley",
+          "Quinoa",
+          "Millet"
+        ]
+      },
+      {
+        "categoryName": "Oils & Masalas",
+        "subcategories": [
+          "Cumin Seeds",
+          "Coriander Seeds",
+          "Cardamom",
+          "Cloves",
+          "Turmeric Powder",
+          "Chili Powder",
+          "Cinnamon Powder",
+          "Cumin Powder"
+        ]
+      },
+      {
+        "categoryName": "Snacks & Biscuits",
+        "subcategories": [
+          "Potato Chips",
+          "Tortilla Chips",
+          "Corn Chips",
+          "Almonds",
+          "Cashews",
+          "Pistachios",
+          "Walnuts"
+        ]
+      },
+      {
+        "categoryName": "Cleaning & Household",
+        "subcategories": [
+          "Potato Chips",
+          "Tortilla Chips",
+          "Corn Chips",
+          "Almonds",
+          "Cashews",
+          "Pistachios",
+          "Walnuts"
+        ]
+      },
+      {
+        "categoryName": "Baby Care",
+        "subcategories": [
+          "Potato Chips",
+          "Tortilla Chips",
+          "Corn Chips",
+          "Almonds",
+          "Cashews",
+          "Pistachios",
+          "Walnuts"
+        ]
+      },
+      {
+        "categoryName": "Chocolates",
+        "subcategories": [
+          "Potato Chips",
+          "Tortilla Chips",
+          "Corn Chips",
+          "Almonds",
+          "Cashews",
+          "Pistachios",
+          "Walnuts"
+        ]
+      },
+      {
+        "categoryName": "Beverages",
+        "subcategories": [
+          "Potato Chips",
+          "Tortilla Chips",
+          "Corn Chips",
+          "Almonds",
+          "Cashews",
+          "Pistachios",
+          "Walnuts"
+        ]
+      },
+      {
+        "categoryName": "Festival Offer",
+        "subcategories": [
+          "Potato Chips",
+          "Tortilla Chips",
+          "Corn Chips",
+          "Almonds",
+          "Cashews",
+          "Pistachios",
+          "Walnuts"
+        ]
+      }
+    ]
+  }
+  
